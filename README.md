@@ -1,2 +1,3 @@
 # Hello-world
-Just try
+Hello everyone!
+I'm Dung from Viet Nam.
